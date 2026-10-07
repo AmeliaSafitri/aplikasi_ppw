@@ -1,8 +1,8 @@
 streamlit
+numpy==1.26.4
 pandas
-numpy
 scikit-learn
-gensim
+gensim==4.4.0
 Sastrawi
 requests
 beautifulsoup4
